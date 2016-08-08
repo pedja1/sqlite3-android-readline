@@ -4,4 +4,4 @@ include $(CLEAR_VARS)
 
 include $(MY_LOCAL_PATH)/libreadline/Android.mk
 include $(MY_LOCAL_PATH)/ncurses/Android.mk
-#include $(MY_LOCAL_PATH)/sqlite/dist/Android.mk
+include $(MY_LOCAL_PATH)/sqlite3/Android.mk
